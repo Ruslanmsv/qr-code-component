@@ -19,7 +19,6 @@ body {
 
 .qr-container {
     margin: 10% auto;
-    border: 1px solid red;
     width: 85%;
     max-width: 20rem;
     background-color: hsl(0, 0%, 100%);
@@ -34,8 +33,8 @@ body {
 }
 
 .header {
-    margin-top: 1.5rem;
-    font-size: 1.4rem;
+    margin-top: 1.6rem;
+    font-size: 1.45rem;
     font-weight: 700;
     text-align: center;
     color: hsl(218, 44%, 22%);
